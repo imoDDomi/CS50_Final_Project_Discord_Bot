@@ -18,6 +18,7 @@ This Discord Bot contains of 2 COGs
 
 - You can either run your program locally on a computer or in a cloud
 - COGs are based on the Red-Discord Bot
+- create Reddit account and add an App to get the ID and secret
 
 
 ### Installing
@@ -26,21 +27,35 @@ Install Red-Discord Bot from https://docs.discord.red/en/stable/install_guides/i
 
 Download the COGs
 
+Run through the setup program:
+```
+redbot-setup
+```
+
 ### Executing program
 
-run through the installation process of red discord bot
+run through the installation process of red discord bot <br>
+Set a specific prefix [p] that you later have to write before your commands, e.g. 
+```
+!post <subreddit>
+```
 https://docs.discord.red/en/stable/install_guides/windows.html#installing-red
 
-Command to run the bot in terminal:
+Command to run the bot in windows terminal:
 ```
 redbot <name_of_your_bot>
 ```
 
 ## Commands
 
-Any advise for common problems or issues.
+Commands available within the COGs
+
+Memes
 ```
-command to run if program contains helper info
+[p]post <subreddit> 
+[p]delete //deletes all messages the bot send
+
+Set a channel ID in order to run the automatic post every 24h
 ```
 
 ## Authors
