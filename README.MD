@@ -1,6 +1,7 @@
 # Final Project Discord Bot
 
-
+## CS50 informations
+- Video Demo: [here](www.youtube.com)
 
 ## Description
 
@@ -17,7 +18,7 @@ This Discord Bot contains of 2 COGs
 ### Dependencies
 
 - You can either run your program locally on a computer or in a cloud
-- COGs are based on the Red-Discord Bot
+- COGs are developed for the [Red-Discord Bot](https://github.com/Cog-Creators/Red-DiscordBot)
 - create Reddit account and add an App to get the ID and secret
 
 
