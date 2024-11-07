@@ -1,14 +1,14 @@
 # Final Project Discord Bot
 
 ## CS50 informations
-- Video Demo: [here](www.youtube.com)
+- Video Demo: [here](https://youtu.be/JW6xTww-7J0)
 
 ## Description
 
-This Discord Bot contains of 2 COGs
+This Discord Bot contains 2 COGs
 
 - Memes
-  - pulls images from subreddit, you can specify from which channel
+  - pulls images from Reddit, you can specify from which subreddit
 - Expenses
   - collects data from a Discord channel where people put in their expenses in the format "10€ Fortnite" or "5€ clash of clans
 
@@ -32,7 +32,14 @@ Run through the setup program:
 ```
 redbot-setup
 ```
+Create a .env file in the project folder
+add following lines
 
+```
+CLIENT_ID=<your_id>
+CLIENT_SECRET=<your_secret>
+USER_AGENT=<your_agent>
+```
 ### Executing program
 
 run through the installation process of red discord bot <br>
