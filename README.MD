@@ -83,6 +83,7 @@ Dominik Polo
 ## Version History
 
 * v0.1 Initial Release
+* v0.2 fixed some bugs
 
 ## License
 
