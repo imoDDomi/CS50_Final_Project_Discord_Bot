@@ -2,3 +2,4 @@ matplotlib
 asyncpraw
 discord
 redbot
+python-dotenv
